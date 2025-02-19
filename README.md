@@ -1,6 +1,8 @@
 # CARECONNECT
 
+<p align="justify">
 The CareConnect website offers user authentication, symptom input, tokenization, AI model evaluation, and disease prediction. It provides AI-driven recommendations for cures, doctors, and risk levels. The platform is responsive across desktop, mobile, and tablet, with a process flow involving user input, processing, and output of predictions and recommendations.
+</p>
 
 ## Tech Stack
 
