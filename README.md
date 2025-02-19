@@ -11,10 +11,16 @@ The CareConnect website offers user authentication, symptom input, tokenization,
 ## Software Architecture
 
 1. Activity Diagram
-   ![Image](https://github.com/user-attachments/assets/29587c52-69f4-4fc6-a5ae-4d21c9f26f1d)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/29587c52-69f4-4fc6-a5ae-4d21c9f26f1d">
+</p>
 
 2. Class Diagram
-   ![Image](https://github.com/user-attachments/assets/97e3d50c-22d8-4a52-b2b8-f456940c978f)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/97e3d50c-22d8-4a52-b2b8-f456940c978f">
+</p>
 
 ## Setup Guide:
 
