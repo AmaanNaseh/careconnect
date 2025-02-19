@@ -28,7 +28,7 @@ const DashboardPage = () => {
         predictions.map((prediction, index) => (
           <div
             key={index}
-            className="bg-white p-6 rounded-lg shadow-lg shadow-black/50 border-black border-[2px] w-fit min-w-80"
+            className="bg-white p-6 rounded-lg shadow-lg shadow-black/50 border-black border-[2px] w-fit min-w-[250px] max-w-[325px] min-h-[300px]"
           >
             <p>
               <strong>User Entered Symptoms:</strong> {prediction.symptoms}

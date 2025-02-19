@@ -65,7 +65,7 @@ const PredictionPage = () => {
           value={symptoms}
           onChange={handleChange}
           rows={10}
-          placeholder="Enter symptoms here..."
+          placeholder="Enter symptoms (comma-seprated) here in the format : symptom 1, symptom 2, ..."
           className="border-black border-[2px] mt-2 p-2 w-fit min-w-[300px] md:min-w-[450px] lg:min-w-[550px] mx-auto resize-none"
         />
 
