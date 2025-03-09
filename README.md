@@ -29,7 +29,7 @@ Make sure to install <a href="https://www.python.org/downloads/release/python-31
 1. Clone the repository
 
 ```bash
-git clone https://github.com/AmaanNaseh/careconnect.git
+git clone https://github.com/FaizaQ27/careconnect.git
 ```
 
 2. Navigate to backend folder, Install dependencies & run the project
