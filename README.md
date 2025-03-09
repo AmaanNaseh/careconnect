@@ -24,7 +24,7 @@ The CareConnect website offers user authentication, symptom input, tokenization,
 
 ## Setup Guide:
 
-Make sure to install <a href="https://www.python.org/downloads/release/python-3116/">Python 3.11.6</a>, <a href="https://code.visualstudio.com/download">VS Code</a> & <a href="https://nodejs.org/en/download">Node.js</a> in your system to run this project.
+Make sure to install <a href="https://www.python.org/downloads/release/python-3116/">Python 3.11.6</a>, <a href="https://code.visualstudio.com/download">VS Code</a>, <a href="https://nodejs.org/en/download">Node.js</a> and <a href="https://git-scm.com/downloads">Git</a> in your system to run this project.
 
 1. Clone the repository
 
